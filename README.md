@@ -2,7 +2,7 @@
 - 👀 I’m interested in projects related to Node, React, Vue 
 - 🌱 I’m currently learning to be more software engineer
 - 💞️ I’m looking to collaborate on Node, React and Vue projects.
-- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/rafay-hassan/)
+- 📫 You can reach me on email rafay.hassan@outlook.com or connect with on [LinkedIn](https://www.linkedin.com/in/rafay-hassan/).
 
 <!---
 hassanrafay/hassanrafay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
